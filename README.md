@@ -35,7 +35,7 @@ This is not intended for external installation.
 
 ## Usage
 
-This portfolio is designed as a showcase a diversity of work samples that will be helpful to an employer to determine if my skill set aligns with their job needs.
+This portfolio is designed as a showcase with a diversity of work samples that will be helpful to an employer to determine if my skill set aligns with their job needs.
 
 ## Issues
 
