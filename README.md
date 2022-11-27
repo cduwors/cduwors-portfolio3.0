@@ -35,7 +35,7 @@ This is not intended for external installation.
 
 ## Usage
 
-This portfolio is designed as a showcase a diversity of work samples that will be helpful to an employer to determine if my skill set aligns with their job needs.
+This portfolio is designed as a showcase with a diversity of work samples that will be helpful to an employer to determine if my skill set aligns with their job needs.
 
 ## Issues
 
@@ -51,9 +51,9 @@ No external contributions are applicable. However, I am happy for some construct
 
 ## Questions
 
-See more details at https://www.github.com/cduwors or contact cduwors@mail.com.
+See more details at https://www.github.com/cduwors or contact cduwors@gmail.com.
 
-GitHub Repository: https://github.com/cduwors/React-Portfolio
+GitHub Repository: https://github.com/cduwors-portfolio3.0
 
 ## Images
 
