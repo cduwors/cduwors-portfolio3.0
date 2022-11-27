@@ -51,9 +51,9 @@ No external contributions are applicable. However, I am happy for some construct
 
 ## Questions
 
-See more details at https://www.github.com/cduwors or contact cduwors@mail.com.
+See more details at https://www.github.com/cduwors or contact cduwors@gmail.com.
 
-GitHub Repository: https://github.com/cduwors/React-Portfolio
+GitHub Repository: https://github.com/cduwors-portfolio3.0
 
 ## Images
 
